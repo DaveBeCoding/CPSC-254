@@ -1,7 +1,6 @@
 #!/bin/sh
         # File: CPSC-254/week-05/project-01/phone.sh
-        # Date: Thu 28 Feb 2002 10:35:24 Eastern Standard Time
-        # Last Revised: Time-stamp: <2002-02-28 10:46:15 exmxm> maintained by emacs
+        # Date: Fri Sep 24 11:47:10 PDT 2021
         # Description: Master script for phone book program
         # ======================================================================= 
 

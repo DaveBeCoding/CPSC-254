@@ -1,7 +1,6 @@
 #!/bin/sh
         # File: CPSC-254/week-05/project-01/add.sh
-        # Date: Wed Feb 27 18:06:30 EST 2002
-        # Last Revised: Time-stamp: <2002-02-27 18:45:45 john> maintained by emacs
+        # Date: Fri Sep 24 11:47:10 PDT 2021
         # Description: Add entries to the address book
         # ======================================================================= 
 
